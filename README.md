@@ -2,7 +2,7 @@
 
 VacTrack Mobile App to register, document, and report vaccinations for temporary, high-volume sites. Option for state and provider use.  
 
-![image](https://user-images.githubusercontent.com/67471222/118502817-aee90580-b747-11eb-9538-f87dd09a545d.png)
+![image](https://user-images.githubusercontent.com/67471222/118503245-14d58d00-b748-11eb-86e8-52677ecec136.png)
 
     1)The MMM is a proposed web application accessible by computers/mobile devices to collect different types of data relating to each VacPack. 
     2)The MMM collects data from VacPack using its bluetooth system and aggregates extra data with input from VacPack distribution teams:
