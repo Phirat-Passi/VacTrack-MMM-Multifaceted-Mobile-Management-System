@@ -1,0 +1,6 @@
+dev/19-21VAERSVAX.csv
+dev/19-21VAERSSYMPTOMS.csv
+dev/19-21VAERSDATA.csv
+dev/19-21VAERSCOMB.csv
+*.csv
+*.xlsx
